@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Bryan Campbell Launches Site"
 date: 2020-01-19
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - 
-powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
-It actually is a lot easier than I thought it was going to be.
+After looking through several tutorials, I'm able to start developing my own portfolio site. I'll be using [Jekyll](http://jekyllrb.com) and hosting it on GitHub as I go forward. I've stumbled around a little bit with it, but I'll be progressing and developing my skills going forward.
